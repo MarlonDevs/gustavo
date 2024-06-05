@@ -1,0 +1,22 @@
+[
+    {
+        "name": "control",
+        "route": "control",
+        "icon": "fa-home"
+        
+    },
+
+    {
+        "name": "evaluacion",
+        "route": "evaluacion",
+        "icon": "fa-home"
+        
+    },
+
+    {
+        "name": "desempeño",
+        "route": "desempeño",
+        "icon": "fa-home"
+        
+    }
+]
